@@ -17,3 +17,7 @@ Skills/Habilidades:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=federicoilluminato&theme=default&show_icons=true&hide=prs,contribs"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoilluminato&layout=compact" />
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/federicoilluminato)

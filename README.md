@@ -18,11 +18,11 @@ Skills/Habilidades:
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=federicoilluminato&theme=default&show_icons=true&hide=prs,contribs"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=federicoilluminato&theme=default&show_icons=true&hide=prs,contribs"/>
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoilluminato&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoilluminato&layout=compact" />
 
 ---
 

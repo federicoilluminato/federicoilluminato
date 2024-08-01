@@ -20,7 +20,3 @@ Skills/Habilidades:
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicoilluminato&layout=compact" />
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/federicoilluminato)

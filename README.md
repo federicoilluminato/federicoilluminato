@@ -4,8 +4,6 @@
 
 I'm a fullstack engineer focused on designing scalable systems, backend architectures, and high-performance web applications.
 
-My main interests are distributed systems, microservices, event-driven architecture, caching strategies, developer infrastructure, and AI-assisted engineering workflows.
-
 I enjoy building systems end-to-end — from frontend UX and APIs to infrastructure, observability, CI/CD pipelines, container orchestration, and performance optimization.
 
 ---

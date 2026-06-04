@@ -16,7 +16,7 @@ I enjoy building systems end-to-end — from frontend UX and APIs to infrastruct
    </a>
 
    <a href="https://github.com/federicoilluminato?tab=repositories&sort=stargazers">
-      <img alt="stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      <img alt="stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/federicoilluminato?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 
    <a href="https://www.linkedin.com/in/federicoilluminato">

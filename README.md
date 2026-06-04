@@ -12,14 +12,14 @@ I enjoy building systems end-to-end — from frontend UX and APIs to infrastruct
 
 <p align="left">
    <a href="https://github.com/YOUR_USERNAME?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/federicoilluminato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
 
-   <a href="https://github.com/YOUR_USERNAME?tab=repositories&sort=stargazers">
+   <a href="https://github.com/federicoilluminato?tab=repositories&sort=stargazers">
       <img alt="stars" title="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 
-   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+   <a href="https://www.linkedin.com/in/federicoilluminato">
       <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
@@ -86,19 +86,3 @@ I enjoy building systems end-to-end — from frontend UX and APIs to infrastruct
 
 ---
 
-# 🏗️ Engineering Focus
-
-```txt
-✔ Scalable APIs
-✔ Distributed Systems
-✔ Event-Driven Architecture
-✔ Microservices
-✔ Redis Caching
-✔ Realtime Infrastructure
-✔ CI/CD Pipelines
-✔ Containerized Applications
-✔ System Design
-✔ Backend Performance Optimization
-✔ Messaging Queues
-✔ Observability & Reliability
-✔ AI-Assisted Development
